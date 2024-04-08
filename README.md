@@ -2,7 +2,6 @@
 
 Final project Submission for the Object Oriented Programming Using C++.
 
-Feel Free to Contribute to this Repo.
 
 `git init`
 
